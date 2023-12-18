@@ -2,6 +2,6 @@
 @section('title', 'Home Page - Online Store')
 @section('content')
 <div class="text-center">
-Welcome to the application
+Bem vindo a aplicação
 </div>
 @endsection

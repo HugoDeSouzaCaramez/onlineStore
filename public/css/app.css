@@ -3,6 +3,9 @@
 }
 .copyright {
     background-color: #1a252f;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }
 .bg-primary {
     background-color: #1abc9c !important;

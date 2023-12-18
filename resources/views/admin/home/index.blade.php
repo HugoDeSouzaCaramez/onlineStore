@@ -3,10 +3,10 @@
 @section('content')
 <div class="card">
     <div class="card-header">
-        Admin Panel - Home Page
+        Painel Administrativo - Home Page
     </div>
     <div class="card-body">
-        Welcome to the Admin Panel, use the sidebar to navigate between the different options.
+        Bem-vindo ao Painel de Administração, use a barra lateral para navegar entre as diferentes opções.
     </div>
 </div>
 @endsection

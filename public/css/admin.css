@@ -1,5 +1,8 @@
 .copyright {
     background-color: #1a252f;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }
 .fixed {
     -ms-flex: 0 0 250px;

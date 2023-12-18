@@ -14,12 +14,11 @@ class HomeController extends Controller
     }
     public function about()
     {
-        $data1 = "About us - Online Store";
         $viewData = [];
-        $viewData["title"] = "About us - Online Store";
-        $viewData["subtitle"] = "About us";
-        $viewData["description"] = "This is an about page ...";
-        $viewData["author"] = "Developed by: Hugo de Souza Caramez";
+        $viewData["title"] = "Sobre nós - Loja Online Ficitícia";
+        $viewData["subtitle"] = "Sobre nós";
+        $viewData["description"] = "Esta é uma pagina Sobre nós";
+        $viewData["author"] = "Desenvolvido por: Hugo de Souza Caramez";
         return view('home.about')->with("viewData", $viewData);
     }
 }

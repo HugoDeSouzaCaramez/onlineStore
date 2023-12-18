@@ -19,12 +19,12 @@
                     @csrf
                         <div class="col-auto">
                             <div class="input-group col-auto">
-                                <div class="input-group-text">Quantity</div>
+                                <div class="input-group-text">Quantidade</div>
                                 <input type="number" min="1" max="10" class="form-control quantity-input" name="quantity" value="1">
                             </div>
                         </div>
                         <div class="col-auto">
-                            <button class="btn bg-primary text-white" type="submit">Add to cart</button>
+                            <button class="btn bg-primary text-white" type="submit">Adicionar ao carrinho</button>
                         </div>
                     </div>
                     </form>
